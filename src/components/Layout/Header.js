@@ -9,7 +9,7 @@ const Header = (props) => {
     <Fragment>
       <header className="w-full bg-black flex justify-between items-center px-16 py-8">
         <h1 className="text-slate-100 text-2xl font-extralight cursor-pointer">
-          JustEat
+          Just <span className="font-medium">Eats</span>
         </h1>
         <HeaderCartButton />
       </header>
