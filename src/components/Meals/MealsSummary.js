@@ -2,7 +2,7 @@ import Fire from "../Fire/Fire";
 
 const MealsSummary = () => {
   return (
-    <section className="text-left rounded-xl bg-black text-slate-100 mt-8 py-2 px-8">
+    <section className="text-left rounded-xl bg-black text-slate-100 mt-8 mb-20 py-2 px-8">
       <div className="flex gap-2">
         <h2 className="pb-1 text-xl font-semibold">
           Delicious Hot Food, Delivered To You In Time.

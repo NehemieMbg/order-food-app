@@ -1,7 +1,7 @@
 import { Fragment } from "react";
 
 import HeaderCartButton from "./HeaderCartButton";
-import mealsImage from "../../assets/food-wallpaper.jpg";
+import mealsImage from "../../assets/wallpaper-3.jpg";
 
 const Header = (props) => {
   // Using Fragment as a wrapper.

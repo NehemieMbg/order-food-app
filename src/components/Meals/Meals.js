@@ -10,7 +10,9 @@ const Meals = () => {
       <div className="flex items-center justify-center">
         <MealsSummary />
       </div>
-      <AvailableMeals />
+      <div className="flex justify-center">
+        <AvailableMeals />
+      </div>
     </Fragment>
   );
 };
