@@ -5,7 +5,7 @@ const MealItemFrom = (props) => {
     <form className="flex justify-center items-center">
       <Input
         input={{
-          id: "amount_" + props.id, // this changed!
+          id: "amount_" + props.id,
           type: "number",
           min: "1",
           max: "5",
